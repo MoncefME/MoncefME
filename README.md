@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Mohamed 👋</h1>
+<h1 align="center">Hi, I'm Moncef 👋</h1>
 
 <p align="center">
-    <a href="https://www.facebook.com/moncef.moussaoui.79/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label="/></a>
-    <a href="https://www.strava.com/athletes/43957994"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Strava&color=FC4C02&logo=Strava&logoColor=FFFFFF&label="/></a>
-    <a href="https://www.instagram.com/moncefon/?hl=en"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="/></a>
+    <a href="https://www.facebook.com/moncef.moussaoui.79/" target=”_blank><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label="/></a>
+    <a href="https://www.strava.com/athletes/43957994" target=”_blank><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Strava&color=FC4C02&logo=Strava&logoColor=FFFFFF&label="/></a>
+    <a href="https://www.instagram.com/moncefon/?hl=en" target=”_blank><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="/></a>
   </p>
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
