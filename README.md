@@ -6,12 +6,12 @@
     <a href="https://www.instagram.com/moncefon/?hl=en" target=”_blank><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/MoncefME/MoncefME/blob/main/facebook-photo.jpg" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+- I'm a CS stuedent 🎓 passionate about technology 🚀 and innovation 🌱
+- I'm actually learning advanced web technologies ✨
+- I'm a member in GDG and CSE the biggest tech communities in Algeria🔭.
+- I love running and watching movies , that's my hobbies.
+- You can always reach me via Email : ka_moussaoui@esi.dz💬
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+
