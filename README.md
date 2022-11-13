@@ -9,7 +9,7 @@
   <img src="https://github.com/MoncefME/MoncefME/blob/main/facebook-photo.jpg" align="right" width="25%"/>
 
 - I'm a CS stuedent 🎓 passionate about technology 🚀 and innovation 🌱
-- I'm actually learning advanced web technologies ✨
+- I'm actually learning advanced web technologies with JS , I'm also interested in ML✨
 - I'm Logistics co-manager at GDG Algiers biggest tech community in Algeria🔭.
 - I love running and watching movies , that's my hobbies.
 - You can always reach me via Email : ka_moussaoui@esi.dz💬
