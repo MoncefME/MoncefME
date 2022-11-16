@@ -12,6 +12,6 @@
 - I'm actually learning advanced web technologies with JS , I'm also interested in ML✨
 - I'm Logistics co-manager at GDG Algiers biggest tech community in Algeria🔭.
 - I love running and watching movies , that's my hobbies.
-- You can always reach me via Email : ka_moussaoui@esi.dz💬
+- You can always reach me via Email : ka_moussaoui@esi.dz 💬
 
 
